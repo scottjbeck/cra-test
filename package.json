@@ -2,6 +2,7 @@
   "name": "cra-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://scottjbeck.github.io/cra-test/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
